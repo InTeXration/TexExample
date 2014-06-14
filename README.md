@@ -1,6 +1,4 @@
 TexExample
 ==========
 
-Dummy (Example) Latex Repository for Testing Webhools
-
-Dummy Commits
+Dummy (Example) Latex Repository for Testing Webhooks
