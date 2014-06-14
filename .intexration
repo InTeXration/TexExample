@@ -2,6 +2,7 @@
   "builds": [
     {
       "name": "main",
+      "dir": "/",
       "bib": "main.bib",
       "idx": "main.idx"
     }
