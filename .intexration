@@ -1,5 +1,5 @@
 {
-  "builds": [
+  "documents": [
     {
       "name": "main",
       "dir": "/",
