@@ -1,0 +1,9 @@
+{
+  "builds": [
+    {
+      "name": "main",
+      "bib": "main.bib",
+      "idx": "main.idx"
+    }
+  ]
+}
